@@ -6,3 +6,6 @@ def fibbonaci(n):
         return 1
     else:
         return fibbonaci(n-1) + fibbonaci(n-2)
+
+def add3numbers(a, b, c):
+    return a + b + c

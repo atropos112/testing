@@ -9,3 +9,6 @@ def fibbonaci(n):
 
 def add3numbers(a, b, c):
     return a + b + c
+
+def add4numbers(a, b, c, d):
+    return a + b + c + d
